@@ -75,7 +75,7 @@ public class Main {
         // Calculate the number of words in LinkedList:
         System.out.println("NUMBER OF ALL WORDS IN LINKEDLIST: " + list.getTotalWords());
         System.out.println("-----------------------");
-        // Print out the number of words that occur in list more than 20 times
+        // Print out the number of nodes that occur in list more than 20 times
         System.out.println("NUMBER OF WORDS OCCURRING MORE THAN 20 TIMES: " +  list.getNodesWithOver20());
         System.out.println("-----------------------");
         // Print out most frequent word showing word and word count
